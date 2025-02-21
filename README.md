@@ -1,7 +1,9 @@
 # $\color{red}Welcome \space to \space Machine \space Learning $
 This repository contains code for machine learning projects.
 
-## $\color{red}A] Regression $
+# $\color{green}1) \space Supervised \space Learning $
+
+## $\color{brown}A] \space Regression $
 ### $\color{blue}1. \space Simple \space Linear \space Regression $
 
 ![Image](https://github.com/user-attachments/assets/2e6773ec-10b8-4bd1-9dae-638ed6b902cf)
@@ -17,7 +19,7 @@ This repository contains code for machine learning projects.
 ### $\color{blue}6. \space Random \space Forest \space Regression $
 
 
-## $\color{red}B] Classification $
+## $\color{brown}B] \space Classification $
 
 ### $\color{blue}1. \space Logistic \space Regression $
 
@@ -33,9 +35,16 @@ This repository contains code for machine learning projects.
 
 ### $\color{blue}7. \space Random \space Forest $
 
-## $\color{red}C] Clustering $
+# $\color{green}2) \space Unsupervised \space Learning $
+
+## $\color{brown}a] \space Clustering $
 
 ### $\color{blue}1. \space K-Means \space Clustering $
 
 ### $\color{blue}2. \space Hierarchical \space Clustering $
 
+## $\color{brown}b] \space Association \space Rule \space Learning $
+
+### $\color{blue}1. \space Apriori $
+
+### $\color{blue}2. \space Eclat $
