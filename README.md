@@ -48,3 +48,15 @@ This repository contains code for machine learning projects.
 ### $\color{blue}1. \space Apriori $
 
 ### $\color{blue}2. \space Eclat $
+
+# $\color{green}3) \space Reinforcement \space Learning $
+
+## $\color{brown}a] \space Model \space Free \space Learning $
+
+### $\color{blue}1. \space Policy \space Based \space (REINFORCE, \space PPO) $
+### $\color{blue}2. \space Value \space Based \space (Q-Learning, \space Deep \space Q \space Networks \space (DQN)) $
+### $\color{blue}3. \space Hybrid \space (A3C, \space SAC) $
+
+## $\color{brown}b] \space Model \space Based \space Learning $
+### $\color{blue}1. \space AlphaGo $
+### $\color{blue}2. \space Dyna-Q $
