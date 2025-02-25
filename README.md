@@ -49,6 +49,12 @@ This repository contains code for machine learning projects.
 
 ### $\color{blue}2. \space Eclat $
 
+## $\color{brown}c] \space Dimensionality \space Reduction $
+
+### $\color{blue}1. \space Principal \space Component \space Analysis \space(PCA) $
+
+### $\color{blue}2. \space Linear \space Discriminant \space Analysis \space(LDA) $
+
 # $\color{green}3) \space Reinforcement \space Learning $
 
 ## $\color{brown}a] \space Model \space Free \space Learning $
